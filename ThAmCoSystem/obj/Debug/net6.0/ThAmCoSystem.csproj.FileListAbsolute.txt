@@ -1,0 +1,1646 @@
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.AssemblyReference.cache
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.AssemblyInfoInputs.cache
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.AssemblyInfo.cs
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.CoreCompileInputs.cache
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.RazorAssemblyInfo.cache
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.RazorAssemblyInfo.cs
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\appsettings.Development.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\appsettings.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.staticwebassets.runtime.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.exe
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.deps.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.runtimeconfig.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.pdb
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\mscorlib.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\netstandard.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Console.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Memory.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Web.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Windows.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Humanizer.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\MessagePack.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Build.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Common.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets\msbuild.ThAmCoSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ThAmCoSystem.props
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ThAmCoSystem.props
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ThAmCoSystem.props
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets.build.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets.development.json
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Customer\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Customer\Views\Shared\_LayoutLogin.cshtml.rz.scp.css
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutLogin.cshtml.rz.scp.css
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\bundle\ThAmCoSystem.styles.css
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\projectbundle\ThAmCoSystem.bundle.scp.css
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.CopyComplete
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\refint\ThAmCoSystem.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.pdb
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.genruntimeconfig.cache
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ref\ThAmCoSystem.dll
+E:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Staff\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\appsettings.json
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.staticwebassets.runtime.json
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.exe
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.deps.json
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.runtimeconfig.json
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.pdb
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\mscorlib.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\netstandard.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Console.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Memory.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Web.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Windows.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Humanizer.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\MessagePack.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Common.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.AssemblyReference.cache
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.AssemblyInfoInputs.cache
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.AssemblyInfo.cs
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.CoreCompileInputs.cache
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.RazorAssemblyInfo.cache
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.RazorAssemblyInfo.cs
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Customer\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Customer\Views\Shared\_LayoutLogin.cshtml.rz.scp.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Staff\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutLogin.cshtml.rz.scp.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\bundle\ThAmCoSystem.styles.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\scopedcss\projectbundle\ThAmCoSystem.bundle.scp.css
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.CopyComplete
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\refint\ThAmCoSystem.dll
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.pdb
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.genruntimeconfig.cache
+D:\ThAmCo System\ThAmCoSystem\ThAmCoSystem\obj\Debug\net6.0\ref\ThAmCoSystem.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\appsettings.Development.json
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\appsettings.json
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.staticwebassets.runtime.json
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.exe
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.deps.json
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.runtimeconfig.json
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ThAmCoSystem.pdb
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\mscorlib.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\netstandard.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Console.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Data.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Memory.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Web.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Windows.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Humanizer.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\MessagePack.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Build.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.Common.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Online\TAC\ThAmCoSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.AssemblyReference.cache
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.AssemblyInfoInputs.cache
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.AssemblyInfo.cs
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.CoreCompileInputs.cache
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.MvcApplicationPartsAssemblyInfo.cs
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.MvcApplicationPartsAssemblyInfo.cache
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.RazorAssemblyInfo.cache
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.RazorAssemblyInfo.cs
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Customer\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Customer\Views\Shared\_LayoutLogin.cshtml.rz.scp.css
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Areas\Staff\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutLogin.cshtml.rz.scp.css
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\scopedcss\bundle\ThAmCoSystem.styles.css
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\scopedcss\projectbundle\ThAmCoSystem.bundle.scp.css
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.csproj.CopyComplete
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.dll
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\refint\ThAmCoSystem.dll
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.pdb
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ThAmCoSystem.genruntimeconfig.cache
+Z:\Online\TAC\ThAmCoSystem\obj\Debug\net6.0\ref\ThAmCoSystem.dll
